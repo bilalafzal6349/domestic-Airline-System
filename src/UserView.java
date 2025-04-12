@@ -1,9 +1,10 @@
 import java.io.IOException;
 import java.util.*;
 import java.io.*;
-class UserView {
+
+public class UserView {
     private Scanner scanner = new Scanner(System.in);
-    private List<Flight> flights = new ArrayList<>();
+    public List<Flight> flights = new ArrayList<>();
     private List<Booking> bookings = new ArrayList<>();
 
     public UserView() {

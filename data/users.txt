@@ -7,3 +7,4 @@ id : id s ,Name : bilsfdjrelw,password : pt4jf role : ,Staff,designation: manage
 id : 11,Name : bilal,password : 123 role : ,Staff,designation: manager
  id : 222,Name : biill,password : 1111  role: ,Passenger,passport id : twgsdfb
  id : 1,Name : bii,password : 11  role: ,Passenger,passport id : pppp
+id : 22,Name : aa,password : 222 role : ,Staff,designation: manager
